@@ -1,0 +1,2165 @@
+{
+    "SECTION_POPUP": {
+      "type": "section",
+      "desktop.option.background-style": "solid",
+      "mobile.option.background-style": "solid"
+    },
+    "SECTION1": {
+      "type": "section",
+      "desktop.option.background-style": "image",
+      "mobile.option.background-style": "image"
+    },
+    "IMAGE3": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc",
+      "desktop.style.animation-name": "fadeInUp",
+      "desktop.style.animation-delay": "0s",
+      "mobile.style.animation-name": "fadeInUp",
+      "mobile.style.animation-delay": "0s"
+    },
+    "IMAGE4": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc",
+      "desktop.style.animation-name": "fadeInUp",
+      "desktop.style.animation-delay": "0s",
+      "mobile.style.animation-name": "fadeInUp",
+      "mobile.style.animation-delay": "0s"
+    },
+    "IMAGE5": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc",
+      "desktop.style.animation-name": "fadeInUp",
+      "desktop.style.animation-delay": "0s",
+      "mobile.style.animation-name": "fadeInUp",
+      "mobile.style.animation-delay": "0s"
+    },
+    "IMAGE6": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE7": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE8": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE9": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc",
+      "desktop.style.animation-name": "flash",
+      "desktop.style.animation-delay": "0s",
+      "mobile.style.animation-name": "flash",
+      "mobile.style.animation-delay": "0s"
+    },
+    "IMAGE10": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE11": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE12": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc",
+      "desktop.style.animation-name": "tada",
+      "desktop.style.animation-delay": "0s",
+      "mobile.style.animation-name": "tada",
+      "mobile.style.animation-delay": "0s"
+    },
+    "HEADLINE13": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE14": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "SECTION16": {
+      "type": "section",
+      "desktop.option.background-style": "solid",
+      "mobile.option.background-style": "solid"
+    },
+    "SECTION17": {
+      "type": "section",
+      "desktop.option.background-style": "image",
+      "mobile.option.background-style": "image"
+    },
+    "SECTION18": {
+      "type": "section",
+      "desktop.option.background-style": "solid",
+      "mobile.option.background-style": "solid"
+    },
+    "SECTION19": {
+      "type": "section",
+      "desktop.option.background-style": "image",
+      "mobile.option.background-style": "image"
+    },
+    "SECTION20": {
+      "type": "section",
+      "desktop.option.background-style": "solid",
+      "mobile.option.background-style": "solid"
+    },
+    "SECTION21": {
+      "type": "section",
+      "desktop.option.background-style": "solid",
+      "mobile.option.background-style": "solid"
+    },
+    "HEADLINE23": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE24": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE25": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE26": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE27": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE28": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE32": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE33": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE36": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE37": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE40": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE41": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE46": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE147": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE148": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc",
+      "mobile.style.animation-name": "fadeInUp",
+      "mobile.style.animation-delay": "0s"
+    },
+    "IMAGE149": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc",
+      "desktop.style.animation-name": "fadeInUp",
+      "desktop.style.animation-delay": "0s",
+      "mobile.style.animation-name": "fadeInUp",
+      "mobile.style.animation-delay": "0s"
+    },
+    "HEADLINE151": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "GROUP153": {
+      "type": "group",
+      "mobile.style.animation-name": "fadeInUp",
+      "mobile.style.animation-delay": "0s"
+    },
+    "HEADLINE154": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE155": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc",
+      "desktop.style.animation-name": "tada",
+      "desktop.style.animation-delay": "0s",
+      "mobile.style.animation-name": "tada",
+      "mobile.style.animation-delay": "0s"
+    },
+    "HEADLINE157": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE158": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON159": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc",
+      "desktop.style.animation-name": "pulse",
+      "desktop.style.animation-delay": "0s",
+      "mobile.style.animation-name": "pulse",
+      "mobile.style.animation-delay": "0s"
+    },
+    "BUTTON_TEXT159": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE160": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE239": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc",
+      "desktop.style.animation-name": "flash",
+      "desktop.style.animation-delay": "0s",
+      "mobile.style.animation-name": "flash",
+      "mobile.style.animation-delay": "0s"
+    },
+    "IMAGE240": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE241": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc",
+      "desktop.style.animation-name": "fadeInUp",
+      "desktop.style.animation-delay": "0s",
+      "mobile.style.animation-name": "fadeInUp",
+      "mobile.style.animation-delay": "0s"
+    },
+    "IMAGE242": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc",
+      "desktop.style.animation-name": "fadeInUp",
+      "desktop.style.animation-delay": "0s",
+      "mobile.style.animation-name": "fadeInUp",
+      "mobile.style.animation-delay": "0s"
+    },
+    "HEADLINE244": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE246": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE248": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE257": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE341": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "GROUP342": {
+      "type": "group",
+      "desktop.style.animation-name": "bounceInUp",
+      "desktop.style.animation-delay": "0s",
+      "mobile.style.animation-name": "bounceInUp",
+      "mobile.style.animation-delay": "0s"
+    },
+    "IMAGE346": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "GROUP343": {
+      "type": "group",
+      "desktop.style.animation-name": "bounceInUp",
+      "desktop.style.animation-delay": "0s",
+      "mobile.style.animation-name": "bounceInUp",
+      "mobile.style.animation-delay": "0s"
+    },
+    "IMAGE350": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "GROUP347": {
+      "type": "group",
+      "desktop.style.animation-name": "bounceInUp",
+      "desktop.style.animation-delay": "0s",
+      "mobile.style.animation-name": "bounceInUp",
+      "mobile.style.animation-delay": "0s"
+    },
+    "IMAGE354": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "GROUP351": {
+      "type": "group",
+      "desktop.style.animation-name": "bounceInUp",
+      "desktop.style.animation-delay": "0s",
+      "mobile.style.animation-name": "bounceInUp",
+      "mobile.style.animation-delay": "0s"
+    },
+    "HEADLINE356": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE357": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE358": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE359": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE360": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE361": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE362": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE363": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "SECTION364": {
+      "type": "section",
+      "desktop.option.background-style": "image",
+      "mobile.option.background-style": "image"
+    },
+    "HEADLINE365": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE366": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE367": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE368": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE369": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE370": {
+      "type": "headline",
+      "option.data_action": {
+        "type": "section",
+        "action": "SECTION1"
+      },
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE371": {
+      "type": "headline",
+      "option.data_action": {
+        "type": "section",
+        "action": "SECTION16"
+      },
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE372": {
+      "type": "headline",
+      "option.data_action": {
+        "type": "section",
+        "action": "SECTION17"
+      },
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE373": {
+      "type": "headline",
+      "option.data_action": {
+        "type": "section",
+        "action": "SECTION19"
+      },
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE374": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE375": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE376": {
+      "type": "headline",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/chinh-sach-bao-mat"
+      },
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE378": {
+      "type": "headline",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/chinh-sach-van-chuyen"
+      },
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE379": {
+      "type": "headline",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/chinh-sach-hoan-tien"
+      },
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE380": {
+      "type": "headline",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/chinh-sach-thanh-toan"
+      },
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE724": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE725": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE726": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE727": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE728": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE730": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE731": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE733": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE734": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT735": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON735": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE737": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE740": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "FRAME722": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/iq"
+      }
+    },
+    "IMAGE743": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE744": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE745": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE746": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE747": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE749": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE750": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE752": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE753": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT754": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON754": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE756": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE759": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "FRAME741": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/biotic"
+      }
+    },
+    "IMAGE781": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE782": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE783": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE784": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE785": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE787": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE788": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE790": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE791": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT792": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON792": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE794": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE797": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "FRAME779": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/pedia"
+      }
+    },
+    "CAROUSEL721": {
+      "type": "carousel",
+      "desktop.option.carousel_setting.autoplay": true,
+      "desktop.option.carousel_setting.autoplay_time": 5,
+      "desktop.option.carousel_crop.width": "1220px",
+      "desktop.option.carousel_crop.width_item": "305px",
+      "mobile.option.carousel_setting.autoplay": true,
+      "mobile.option.carousel_setting.autoplay_time": 5,
+      "mobile.option.carousel_crop.width": "1680px",
+      "mobile.option.carousel_crop.width_item": "420px"
+    },
+    "SECTION906": {
+      "type": "section",
+      "desktop.option.background-style": "solid",
+      "mobile.option.background-style": "solid"
+    },
+    "HEADLINE911": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE915": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE916": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE917": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE918": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE919": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE921": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE922": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE924": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE925": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT926": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON926": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE928": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE931": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "FRAME913": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/100giay"
+      }
+    },
+    "IMAGE934": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE935": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE936": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE937": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE938": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE940": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE941": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE943": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE944": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT945": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON945": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE947": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE950": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "FRAME932": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/100lon"
+      }
+    },
+    "IMAGE953": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE954": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE955": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE956": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE957": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE959": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE960": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE962": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE963": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT964": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON964": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE966": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE969": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "FRAME951": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/a1"
+      }
+    },
+    "IMAGE972": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE973": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE974": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE975": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE976": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE978": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE979": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE981": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE982": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT983": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON983": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE985": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE988": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "FRAME970": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/ao"
+      }
+    },
+    "CAROUSEL912": {
+      "type": "carousel",
+      "desktop.option.carousel_setting.autoplay": true,
+      "desktop.option.carousel_setting.autoplay_time": 5,
+      "desktop.option.carousel_crop.width": "1220px",
+      "desktop.option.carousel_crop.width_item": "305px",
+      "mobile.option.carousel_setting.autoplay": true,
+      "mobile.option.carousel_setting.autoplay_time": 5,
+      "mobile.option.carousel_crop.width": "1680px",
+      "mobile.option.carousel_crop.width_item": "420px"
+    },
+    "IMAGE992": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE993": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE994": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE995": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE996": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE998": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE999": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1001": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1002": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT1003": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON1003": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1005": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1008": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "FRAME990": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/siroyensao"
+      }
+    },
+    "IMAGE1011": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1012": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1013": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1014": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1015": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1017": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1018": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1020": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1021": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT1022": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON1022": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1024": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1027": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "FRAME1009": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/biobio"
+      }
+    },
+    "IMAGE1030": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1031": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1032": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1033": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1034": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1036": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1037": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1039": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1040": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT1041": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON1041": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1043": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1046": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "FRAME1028": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/mummum"
+      }
+    },
+    "IMAGE1049": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1050": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1051": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1052": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1053": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1055": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1056": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1058": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1059": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT1060": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON1060": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1062": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1065": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "FRAME1047": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/canxi-nano"
+      }
+    },
+    "CAROUSEL989": {
+      "type": "carousel",
+      "desktop.option.carousel_setting.autoplay": true,
+      "desktop.option.carousel_setting.autoplay_time": 5,
+      "desktop.option.carousel_crop.width": "1220px",
+      "desktop.option.carousel_crop.width_item": "305px",
+      "mobile.option.carousel_setting.autoplay": true,
+      "mobile.option.carousel_setting.autoplay_time": 5,
+      "mobile.option.carousel_crop.width": "1680px",
+      "mobile.option.carousel_crop.width_item": "420px"
+    },
+    "IMAGE666": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE667": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE668": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE669": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE670": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE672": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE673": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE675": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE676": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT677": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON677": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE679": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE682": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "FRAME664": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/biotic"
+      }
+    },
+    "FRAME702": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/pedia"
+      }
+    },
+    "IMAGE720": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE717": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON715": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT715": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE714": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE713": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE711": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE710": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE708": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE707": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE706": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE705": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE704": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "FRAME683": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/pedia-gold"
+      }
+    },
+    "IMAGE701": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE698": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON696": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT696": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE695": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE694": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE692": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE691": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE689": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE688": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE687": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE686": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE685": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "FRAME549": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/100giay"
+      }
+    },
+    "CAROUSEL382": {
+      "type": "carousel",
+      "desktop.option.carousel_setting.autoplay": true,
+      "desktop.option.carousel_setting.autoplay_time": 5,
+      "desktop.option.carousel_crop.width": "1220px",
+      "desktop.option.carousel_crop.width_item": "305px",
+      "mobile.option.carousel_setting.autoplay": true,
+      "mobile.option.carousel_setting.autoplay_time": 5,
+      "mobile.option.carousel_crop.width": "1680px",
+      "mobile.option.carousel_crop.width_item": "420px"
+    },
+    "IMAGE458": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE457": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE456": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE455": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE453": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE452": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE450": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE449": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON447": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT447": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE446": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE443": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE442": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1146": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1147": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1148": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1149": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1150": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1152": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1153": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1155": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1156": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT1157": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON1157": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1159": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1162": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "FRAME1144": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/iq"
+      }
+    },
+    "IMAGE1165": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1166": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1167": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1168": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1169": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1171": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1172": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1174": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1175": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT1176": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON1176": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1178": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1181": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "FRAME1163": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/biotic"
+      }
+    },
+    "IMAGE1184": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1185": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1186": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1187": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1188": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1190": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1191": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1193": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1194": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT1195": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON1195": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1197": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1200": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "FRAME1182": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/pedia-gold"
+      }
+    },
+    "IMAGE1203": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1204": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1205": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1206": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1207": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1209": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1210": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1212": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1213": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT1214": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON1214": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE1216": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE1219": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "FRAME1201": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/pedia"
+      }
+    },
+    "CAROUSEL1143": {
+      "type": "carousel",
+      "desktop.option.carousel_setting.autoplay": true,
+      "desktop.option.carousel_setting.autoplay_time": 5,
+      "desktop.option.carousel_crop.width": "1220px",
+      "desktop.option.carousel_crop.width_item": "305px",
+      "mobile.option.carousel_setting.autoplay": true,
+      "mobile.option.carousel_setting.autoplay_time": 5,
+      "mobile.option.carousel_crop.width": "1680px",
+      "mobile.option.carousel_crop.width_item": "420px"
+    },
+    "FRAME760": {
+      "type": "frame",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/pedia-gold"
+      }
+    },
+    "IMAGE778": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE775": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON773": {
+      "type": "button",
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON_TEXT773": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE772": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE771": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE769": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE768": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE766": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE765": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "HEADLINE764": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE763": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "IMAGE762": {
+      "type": "image",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "BUTTON1220": {
+      "type": "button",
+      "option.data_action": {
+        "type": "section",
+        "action": "SECTION16"
+      },
+      "option.is_submit_form": false,
+      "option.is_buy_now": false,
+      "option.data_setting.type_dataset": "COLLECTION",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc",
+      "desktop.style.animation-name": "shake",
+      "desktop.style.animation-delay": "3s",
+      "mobile.style.animation-name": "shake",
+      "mobile.style.animation-delay": "3s"
+    },
+    "BUTTON_TEXT1220": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    },
+    "GROUP42": {
+      "type": "group",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/bieng-an-cham-can"
+      },
+      "desktop.style.animation-name": "bounce",
+      "desktop.style.animation-delay": "0s",
+      "mobile.style.animation-name": "bounceInUp",
+      "mobile.style.animation-delay": "0s"
+    },
+    "GROUP43": {
+      "type": "group",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/ho-tro-he-tieu-hoa"
+      },
+      "desktop.style.animation-name": "bounce",
+      "desktop.style.animation-delay": "0s",
+      "mobile.style.animation-name": "bounceInUp",
+      "mobile.style.animation-delay": "0s"
+    },
+    "GROUP44": {
+      "type": "group",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/tang-cuong-de-khang"
+      },
+      "desktop.style.animation-name": "bounce",
+      "desktop.style.animation-delay": "0s",
+      "mobile.style.animation-name": "bounceInUp",
+      "mobile.style.animation-delay": "0s"
+    },
+    "GROUP45": {
+      "type": "group",
+      "option.data_action": {
+        "type": "link",
+        "action": "https://www.colosmulti.com.vn/chieu-cao-va-tri-thong-minh"
+      },
+      "desktop.style.animation-name": "bounce",
+      "desktop.style.animation-delay": "0s",
+      "mobile.style.animation-name": "bounceInUp",
+      "mobile.style.animation-delay": "0s"
+    },
+    "SHAPE1224": {
+      "type": "shape",
+      "desktop.style.animation-name": "shake",
+      "desktop.style.animation-delay": "2s",
+      "mobile.style.animation-name": "shake",
+      "mobile.style.animation-delay": "2s"
+    },
+    "SHAPE1225": {
+      "type": "shape",
+      "desktop.style.animation-name": "pulse",
+      "desktop.style.animation-delay": "1s",
+      "mobile.style.animation-name": "pulse",
+      "mobile.style.animation-delay": "1s"
+    },
+    "HEADLINE1226": {
+      "type": "headline",
+      "option.data_setting.sort_name": "created_at",
+      "option.data_setting.sort_by": "desc"
+    }
+  }
